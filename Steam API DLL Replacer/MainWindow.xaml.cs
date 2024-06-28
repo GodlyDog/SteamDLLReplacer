@@ -119,6 +119,15 @@ namespace Steam_API_DLL_Replacer
                     string fileName = System.IO.Path.GetFileName(file);
                     if (fileName.Equals("steam_api.dll"))
                     {
+                        foreach (string file2 in files)
+                        {
+                            string file2Name = System.IO.Path.GetFileName(file2);
+                            if (file2Name.Equals("steam_api_o.dll"))
+                            {
+                                File.Copy(System.IO.Path.Combine(System.IO.Path.GetDirectoryName(System.Windows.Forms.Application.ExecutablePath), "Replacement\\steam_api.dll"), System.IO.Path.Combine(System.IO.Path.GetDirectoryName(file), "steam_api.dll"), true);
+                                return true;
+                            }
+                        }
                         string newFilePath = System.IO.Path.Combine(System.IO.Path.GetDirectoryName(file), "steam_api_o.dll");
                         File.Move(file, newFilePath);
                         File.Copy(System.IO.Path.Combine(System.IO.Path.GetDirectoryName(System.Windows.Forms.Application.ExecutablePath), "Replacement\\steam_api.dll"), System.IO.Path.Combine(System.IO.Path.GetDirectoryName(file), "steam_api.dll"), false);
@@ -126,6 +135,15 @@ namespace Steam_API_DLL_Replacer
                     }
                     else if (fileName.Equals("steam_api64.dll"))
                     {
+                        foreach (string file2 in files)
+                        {
+                            string file2Name = System.IO.Path.GetFileName(file2);
+                            if (file2Name.Equals("steam_api64_o.dll"))
+                            {
+                                File.Copy(System.IO.Path.Combine(System.IO.Path.GetDirectoryName(System.Windows.Forms.Application.ExecutablePath), "Replacement\\steam_api64.dll"), System.IO.Path.Combine(System.IO.Path.GetDirectoryName(file), "steam_api64.dll"), true);
+                                return true;
+                            }
+                        }
                         string newFilePath = System.IO.Path.Combine(System.IO.Path.GetDirectoryName(file), "steam_api64_o.dll");
                         File.Move(file, newFilePath);
                         File.Copy(System.IO.Path.Combine(System.IO.Path.GetDirectoryName(System.Windows.Forms.Application.ExecutablePath), "Replacement\\steam_api64.dll"), System.IO.Path.Combine(System.IO.Path.GetDirectoryName(file), "steam_api64.dll"), false);
