@@ -1,0 +1,20 @@
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\bin\Debug\Steam API DLL Replacer.exe.config
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\bin\Debug\Steam API DLL Replacer.exe
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\bin\Debug\Steam API DLL Replacer.pdb
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\obj\Debug\Steam API DLL Replacer.csproj.AssemblyReference.cache
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\obj\Debug\MainWindow.g.cs
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\obj\Debug\App.g.cs
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\obj\Debug\Steam API DLL Replacer_MarkupCompile.cache
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\obj\Debug\Steam API DLL Replacer_MarkupCompile.lref
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\obj\Debug\MainWindow.baml
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\obj\Debug\Steam API DLL Replacer.g.resources
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\obj\Debug\Steam_API_DLL_Replacer.Properties.Resources.resources
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\obj\Debug\Steam API DLL Replacer.csproj.GenerateResource.cache
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\obj\Debug\Steam API DLL Replacer.csproj.CoreCompileInputs.cache
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\obj\Debug\Steam API DLL Replacer.exe
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\obj\Debug\Steam API DLL Replacer.pdb
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\obj\Debug\Steam AP.CD615E8E.Up2Date
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\bin\Debug\Gameloop.Vdf.dll
+C:\Users\Damon Burdell\source\repos\Steam API DLL Replacer\Steam API DLL Replacer\bin\Debug\Gameloop.Vdf.xml

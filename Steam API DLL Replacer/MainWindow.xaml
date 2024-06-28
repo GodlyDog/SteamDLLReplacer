@@ -1,0 +1,24 @@
+﻿<Window x:Class="Steam_API_DLL_Replacer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Steam_API_DLL_Replacer"
+        mc:Ignorable="d"
+        Title="DLL Replacer" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <ListBox x:Name="FoldersListBox" HorizontalAlignment="Left" Height="200" VerticalAlignment="Top" Width="500" Margin="0,30,0,0">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <CheckBox IsChecked="{Binding IsSelected}" VerticalAlignment="Center" Checked="CheckBoxChecked" Unchecked="CheckBoxUnchecked"/>
+                            <TextBlock Text="{Binding Path}" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <Button x:Name="ReplaceDLLsButton" Content="Replace DLLs" Click="ReplaceDLLs"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

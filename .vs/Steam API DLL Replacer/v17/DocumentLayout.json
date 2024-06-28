@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Damon Burdell\\source\\repos\\Steam API DLL Replacer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1183F0E1-978F-4EE3-9635-2D92131A90DD}|Steam API DLL Replacer\\Steam API DLL Replacer.csproj|c:\\users\\damon burdell\\source\\repos\\steam api dll replacer\\steam api dll replacer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1183F0E1-978F-4EE3-9635-2D92131A90DD}|Steam API DLL Replacer\\Steam API DLL Replacer.csproj|solutionrelative:steam api dll replacer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183F0E1-978F-4EE3-9635-2D92131A90DD}|Steam API DLL Replacer\\Steam API DLL Replacer.csproj|C:\\Users\\Damon Burdell\\source\\repos\\Steam API DLL Replacer\\steam api dll replacer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1183F0E1-978F-4EE3-9635-2D92131A90DD}|Steam API DLL Replacer\\Steam API DLL Replacer.csproj|solutionrelative:steam api dll replacer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183F0E1-978F-4EE3-9635-2D92131A90DD}|Steam API DLL Replacer\\Steam API DLL Replacer.csproj|C:\\Users\\Damon Burdell\\source\\repos\\Steam API DLL Replacer\\steam api dll replacer\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{1183F0E1-978F-4EE3-9635-2D92131A90DD}|Steam API DLL Replacer\\Steam API DLL Replacer.csproj|solutionrelative:steam api dll replacer\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\Damon Burdell\\source\\repos\\Steam API DLL Replacer\\Steam API DLL Replacer\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Steam API DLL Replacer\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\Damon Burdell\\source\\repos\\Steam API DLL Replacer\\Steam API DLL Replacer\\Properties\\Settings.settings",
+              "RelativeToolTip": "Steam API DLL Replacer\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-06-26T04:01:40.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Damon Burdell\\source\\repos\\Steam API DLL Replacer\\Steam API DLL Replacer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Steam API DLL Replacer\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Damon Burdell\\source\\repos\\Steam API DLL Replacer\\Steam API DLL Replacer\\MainWindow.xaml",
+              "RelativeToolTip": "Steam API DLL Replacer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T02:50:05.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Damon Burdell\\source\\repos\\Steam API DLL Replacer\\Steam API DLL Replacer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Steam API DLL Replacer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Damon Burdell\\source\\repos\\Steam API DLL Replacer\\Steam API DLL Replacer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Steam API DLL Replacer\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:50:05.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
